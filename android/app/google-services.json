@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197313727212",
+    "firebase_url": "https://notestask-26b96-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notestask-26b96",
+    "storage_bucket": "notestask-26b96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197313727212:android:861d074943238cef91f3c9",
+        "android_client_info": {
+          "package_name": "com.example.notes_app_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197313727212-2f3jcl4scb1irl5bes6amlqkm5f22tkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LrgSya8qgZjHo0CjSb5kinRBk480hk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197313727212-2f3jcl4scb1irl5bes6amlqkm5f22tkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197313727212-psh3ac80ins2qgoqh9o1guet1bj0rqv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notesAppTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
